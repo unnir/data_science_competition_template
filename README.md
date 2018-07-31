@@ -6,13 +6,13 @@
 ## Idea & Purpose 
 The idea for this template came up for me after couple DS competitions. The main purpose of the template is to organize the development flow. 
 
-## Techs 
-This template based on jupyter notebooks, and can be used for the jupyter lab as well. 
+## Libraries
+This template based on jupyter notebooks, and can be used for with jupyter lab as well. 
 
 ## Folders 
- * data  +folder for train and test datasets
- * scripts +folder for jupyter notebook scripts
- * submissions +folder for submission files 
+ * data  - folder for train and test datasets
+ * scripts - folder for jupyter notebook scripts
+ * submissions - folder for submission files 
 
 ## How to use?
 After creating a submission file, scripts creates a file in the 'submissioms' folder. For the comnience purpose I used this trick, 
