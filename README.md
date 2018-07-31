@@ -37,5 +37,5 @@ Copy a jupyter notebook with a new name e.g. script_1.ipyng -> script_2.ipyng.
 
 ## TODO
 - [ ] add templates for the CrossValidation (A new folder?)
-- [ ] add templates for ensembling learning 
+- [ ] add templates for the ensemble learning 
 
